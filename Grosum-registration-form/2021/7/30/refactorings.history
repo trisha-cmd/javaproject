@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;net.java.registration.control&apos; to &apos;net.java.registration.controller&apos;&#x0D;&#x0A;- Original project: &apos;Grosum-registration-form&apos;&#x0D;&#x0A;- Original element: &apos;Grosum-registration-form/src/main/java/net.java.registration.control&apos;&#x0D;&#x0A;- Renamed element: &apos;Grosum-registration-form/src/main/java/net.java.registration.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;net.java.registration.control&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;net.java.registration.control" name="net.java.registration.controller" qualified="false" references="true" stamp="1626613014598" textual="false" version="1.0"/>
+</session>

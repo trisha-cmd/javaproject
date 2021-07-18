@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Grosum&apos;&#x0D;&#x0A;- Original project: &apos;Grosum&apos;&#x0D;&#x0A;- Original element: &apos;Grosum/src/main/java/net.javaguides.regforms.model&apos;" description="Delete element" element1="/src\/main\/java&lt;net.javaguides.regforms.model" element2="/src\/main\/java&lt;net.javaguides.regforms" element3="/src\/main\/java&lt;net.javaguides" element4="/src\/main\/java&lt;net" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1626600364511" subPackages="false" version="1.0"/>
+</session>
